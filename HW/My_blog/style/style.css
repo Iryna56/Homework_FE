@@ -1,0 +1,71 @@
+.main{
+
+    width: ;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    text-indent: 30px;
+    font-weight: bold;
+    padding: 40px;
+}
+#bike{
+    color: blue;
+    font-style: italic;
+    line-height: 30px;
+}
+#family{
+    color: brown;
+    font-style: inherit;
+    line-height: 30px;
+}
+#work{
+    color: darkgreen;
+    font-style: unset;
+    line-height: 30px;
+
+}
+.header{
+    font-size: 50px;
+    color: firebrick;
+    border: 2px solid green;
+    background-color: aquamarine;
+}
+pre{
+    text-align: justify;
+    font-size: 30px;
+    font-style: italic;
+}
+.img{
+    width: 400px;
+}
+.tail{
+   border: solid 3px black;
+   background-color: cyan;
+   
+}
+.logo{
+    width: 100px;
+}
+#face{
+    width: 130px;
+}
+.block1{
+   background-color: darksalmon;
+}
+.block2{
+    background-color: darkseagreen;
+}
+.block3{
+    background-color: antiquewhite;
+}
+#img1{
+    width: 460px;
+}
+#img2{
+    width: 450px;
+}
+#img3{
+    width: 420px;
+}

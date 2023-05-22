@@ -1,0 +1,23 @@
+.head{
+    color: blue;
+    text-align: left;
+    text-indent: 120px;
+    font-weight: bold;
+}
+.red{
+    color: red;
+    font-weight: bold;
+}
+.blue{
+    color: blue;
+    font-style: italic;
+}
+.text{
+    text-align: justify;
+    text-indent: 30px;
+    width: 30%;
+    line-height: 25px;
+}
+#head1{
+    font-size: 20px;
+}
