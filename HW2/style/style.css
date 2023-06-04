@@ -1,0 +1,70 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+.list{
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.evro1{
+    width: 50px;
+}
+#usa1{
+    width: 40px;
+}
+#eng1{
+    width: 40px;
+}
+#jap1{
+    width: 40px;
+}
+#geo1{
+    width: 40px;
+}
+.table1{
+    border: 1px solid black;
+}
+.table1 td, .table1 tr{
+    border: 1px solid black;
+}
+.head{
+    font-size: 15px;
+    font-weight: bold;
+}
+.head1{
+    font-size: 12px;
+    font-weight: bold;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMcqVyQlNenlCycHV5jMI2i-tgjZh3ppIJo5HVbvSNgLI5mqLEsH53XLWCIKp59LSDdu8&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+}
+#pad{
+    padding-right: 30%;
+    text-align: justify;
+    font-weight: 100;
+}
+.you{
+    color: blue;
+}
+.fac{
+    color: red;
+    text-decoration: underline;
+}
+.you:hover{
+    color: green;
+    text-decoration: underline;
+}
+.fac:hover{
+    color: blue;
+    text-decoration: line-through;
+}
+.ins:hover{
+    color: red;
+    text-decoration: overline;
+}
+
